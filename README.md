@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lesha Tarasevich</h1>
 <h3 align="center">A student QA Engineer from Belarus</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **lesatarasevic@gmail.com**
 
