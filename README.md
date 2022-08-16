@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexey Tarasevich</h1>
-<h3 align="center">I'm student QA Engineer from Belarus</h3>
+<h3 align="center">I'm Manual QA Engineer from Belarus</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 👨‍💻 I’m currently learning **Courses QA TeachMeSkills**
 
-- 📫 How to reach me **lesatarasevic@gmail.com**
+- 📫 How to reach me **leshatarasevic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
